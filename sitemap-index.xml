@@ -78,7 +78,7 @@
     <loc>https://stahe.github.io/es-python-ia-sept-2025/sitemap.xml</loc>
     <loc>https://stahe.github.io/de-python-ia-sept-2025/sitemap.xml</loc>
 
-      <loc>https://stahe.github.io/es-android-aout-2016/sitemap.xml</loc>
+    <loc>https://stahe.github.io/es-android-aout-2016/sitemap.xml</loc>
     <loc>https://stahe.github.io/es-vbnet-mars-2004/sitemap.xml</loc>
     <loc>https://stahe.github.io/es-aspnet1.1-avril-2004/sitemap.xml</loc>
     <loc>https://stahe.github.io/es-springioc-dotnet-avril-2005/sitemap.xml</loc>
@@ -112,6 +112,41 @@
     <loc>https://stahe.github.io/es-python-flask-sept-2020/sitemap.xml</loc>
     <loc>https://stahe.github.io/es-vbscript-janv-2002/sitemap.xml</loc>
     <loc>https://stahe.github.io/es-sql-firebird-janv-2006/sitemap.xml</loc>
+
+    <loc>https://stahe.github.io/pt-android-aout-2016/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-vbnet-mars-2004/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-aspnet1.1-avril-2004/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-springioc-dotnet-avril-2005/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-web3tier-dotnet-avril-2005/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-csharp-mai-2008/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-pam-aspnet-juin-2010/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-nhibernate-dotnet-dec-2011/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-ef5cf-oct-2012/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-aspnetmvc-nov-2013/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-ecmascript6-oct-2019/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-vuejs-oct-2019/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-nuxtjs-dec-2019/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-php4mvc-janvier-2004/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-java-sept-1998/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-servlets-java-juin-2002/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-java-web-mvc-mai-2006/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-struts1x-dec-2003/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-jpa-juin-2007/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-webservice-netbeans-glassfish-fev-2009/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-struts2-janv-2012/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-jsf2-pf-pfm-juin-2012/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-javaee-juin-2012/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-spring-angular1.x-juillet-2014/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-java-spring-dec-2015/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-springmvc-thymeleaf-janv-2015/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-spring-database-juin-2015/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-rxjava-mai-2016/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-php5-juillet-2011/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-php7-juillet-2019/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-python2.7-mars-2012/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-python-flask-sept-2020/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-vbscript-janv-2002/sitemap.xml</loc>
+    <loc>https://stahe.github.io/pt-sql-firebird-janv-2006/sitemap.xml</loc>
 
   </sitemap>
   </sitemapindex>
