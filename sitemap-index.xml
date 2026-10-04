@@ -24,6 +24,7 @@
   <sitemap><loc>https://stahe.github.io/php8-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/csharp-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/java-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/kotlin-oct-2026/sitemap.xml</loc></sitemap>
   <!-- Cours de septembre 2026 : versions anglaises -->
   <sitemap><loc>https://stahe.github.io/en-flutter-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/en-react-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
@@ -46,6 +47,7 @@
   <sitemap><loc>https://stahe.github.io/en-php8-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/en-csharp-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/en-java-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/en-kotlin-oct-2026/sitemap.xml</loc></sitemap>
 <!-- Anciens cours -->
     <sitemap><loc>https://stahe.github.io/other-available-courses/sitemap.xml</loc></sitemap>
 </sitemapindex>
