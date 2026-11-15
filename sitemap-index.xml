@@ -54,6 +54,30 @@
   <sitemap><loc>https://stahe.github.io/en-kotlin-android-nestjs-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/en-kotlin-etape-par-etape-nestjs-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/en-ionic-etape-par-etape-oct-2026/sitemap.xml</loc></sitemap>
+  <!-- Cours de septembre et octobre 2026 : versions chinoises -->
+  <sitemap><loc>https://stahe.github.io/zh-nestjs-html-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-aspnetcoremvc-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-springmvc-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-flask-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-laravel-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-symfony-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-django-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-vuejs-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-react-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-flutter-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-kotlin-etape-par-etape-nestjs-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-ionic-etape-par-etape-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-angular-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-react-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-vuejs-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-flutter-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-kotlin-android-nestjs-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-typescript-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-dart-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-php8-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-csharp-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-java-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/zh-kotlin-oct-2026/sitemap.xml</loc></sitemap>
 <!-- Anciens cours -->
     <sitemap><loc>https://stahe.github.io/other-available-courses/sitemap.xml</loc></sitemap>
 </sitemapindex>
