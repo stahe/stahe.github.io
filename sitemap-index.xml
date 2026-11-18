@@ -78,6 +78,31 @@
   <sitemap><loc>https://stahe.github.io/zh-csharp-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/zh-java-oct-2026/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://stahe.github.io/zh-kotlin-oct-2026/sitemap.xml</loc></sitemap>
+  <!-- Cours de septembre et octobre 2026 : versions espagnoles -->
+  <sitemap><loc>https://stahe.github.io/ales-flutter-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-react-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-angular-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-vuejs-etape-par-etape-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-django-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-symfony-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-laravel-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-flask-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-springmvc-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-aspnetcoremvc-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-nestjs-html-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-flutter-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-dart-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-vuejs-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-react-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-angular-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-typescript-nestjs-sept-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-php8-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-csharp-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-java-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-kotlin-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-kotlin-android-nestjs-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-kotlin-etape-par-etape-nestjs-oct-2026/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stahe.github.io/ales-ionic-etape-par-etape-oct-2026/sitemap.xml</loc></sitemap>
 <!-- Anciens cours -->
     <sitemap><loc>https://stahe.github.io/other-available-courses/sitemap.xml</loc></sitemap>
 </sitemapindex>
